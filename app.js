@@ -1,5 +1,5 @@
-const dogSound = new Audio();
-dogSound.src = "./assets/Audio/dog.mp3"; 
+const dogSound = new Audio("./assets/Audio/dog.mp3");
+/* dogSound.src = "./assets/Audio/dog.mp3"; */ 
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "q") {
