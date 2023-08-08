@@ -8,7 +8,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const catSound = new Audio();
-catSound.src = "./assets/Audio/cat.mp3"
+catSound.src = "./assets/Audio/Cat.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "w") {
@@ -26,7 +26,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const cowSound = new Audio();
-cowSound.src = "./assets/Audio/cow.mp3"
+cowSound.src = "./assets/Audio/Cow.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "r") {
@@ -44,7 +44,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const birdSound = new Audio();
-birdSound.src = "./assets/Audio/birdsong.mp3"
+birdSound.src = "./assets/Audio/Birdsong.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "s") {
@@ -62,7 +62,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const foxSound = new Audio();
-foxSound.src = "./assets/Audio/fox.mp3"
+foxSound.src = "./assets/Audio/Fox.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "f") {
