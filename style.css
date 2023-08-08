@@ -41,6 +41,10 @@
     text-shadow: 0px 0px 5px white;
   }
 
+   h3 {
+       color: white;
+   }
+
   #animal-wrapper {
     padding: 2rem;
     display: grid;
