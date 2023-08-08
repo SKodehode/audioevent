@@ -8,7 +8,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const catSound = new Audio();
-catSound.src = "./assets/audio/cat.mp3"
+catSound.src = "./assets/Audio/cat.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "w") {
@@ -17,7 +17,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const horseSound = new Audio();
-horseSound.src = "./assets/audio/horse.mp3"
+horseSound.src = "./assets/Audio/horse.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "e") {
@@ -26,7 +26,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const cowSound = new Audio();
-cowSound.src = "./assets/audio/cow.mp3"
+cowSound.src = "./assets/Audio/cow.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "r") {
@@ -35,7 +35,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const duckSound = new Audio();
-duckSound.src = "./assets/audio/duck.mp3"
+duckSound.src = "./assets/Audio/duck.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "a") {
@@ -44,7 +44,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const birdSound = new Audio();
-birdSound.src = "./assets/audio/birdsong.mp3"
+birdSound.src = "./assets/Audio/birdsong.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "s") {
@@ -53,7 +53,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const elephantSound = new Audio();
-elephantSound.src = "./assets/audio/elephant.mp3"
+elephantSound.src = "./assets/Audio/elephant.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "d") {
@@ -62,7 +62,7 @@ document.addEventListener("keydown", function(e) {
   });
 
 const foxSound = new Audio();
-foxSound.src = "./assets/audio/fox.mp3"
+foxSound.src = "./assets/Audio/fox.mp3"
 
 document.addEventListener("keydown", function(e) {
     if (e.key == "f") {
