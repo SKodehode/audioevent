@@ -33,6 +33,12 @@
     text-shadow: 5px 5px 0px black;
   }
 
+   h3 {
+       color: white;
+       text-shadow: 0px 0px 5px black;
+   }
+
+
   h4 {
     padding: 1rem;
     font-size: 1.5rem;
@@ -40,10 +46,6 @@
     color: black;
     text-shadow: 0px 0px 5px white;
   }
-
-   h3 {
-       color: white;
-   }
 
   #animal-wrapper {
     padding: 2rem;
